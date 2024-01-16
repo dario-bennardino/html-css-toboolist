@@ -16,25 +16,20 @@ header{
 .container{
     align-items: center;
     display: inline-block;
-    height: 130px;
-    
+    height: 130px;    
 } 
 
 #logo{
     width: 100px;
     margin-left: 20px;
-    vertical-align: middle;
-    
-    
+    vertical-align: middle;   
 }
 
 #titolo{
     padding-left: 20px;
     line-height: 130px;
     font-size: 4rem;
-    vertical-align: middle;
-    
-    
+    vertical-align: middle;    
 }
 
 main{
@@ -42,15 +37,11 @@ main{
 }
 
 .container-2{
-    background-color: red;
-    width: 1000px;
+    width: 1200px;
     height: 1500px;
     margin: 0 auto;
-  
-    
-
-    
-
+    background-color: white;
+    margin-top: 50px;
 }
 
 #first-botton{
@@ -59,9 +50,8 @@ main{
     border-radius: 15%;
     font-size: 16px;
     padding: 7px;
-    
-    
-
+    margin-left: 50px;
+    border: 1px solid #CFD4D8;
 }
 
 #second-botton{
@@ -70,5 +60,22 @@ main{
     font-size: 16px;
     padding: 7px;
     border-radius: 13%;
-
+    border: 1px solid #CFD4D8;
 }
+
+.main-botton{
+    line-height: 50px;
+    height: 50px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom: 2px solid #CFD4D8;   
+}
+
+.main-text{
+    background-color: white;
+    height: 800px;
+    margin-top: 2px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
