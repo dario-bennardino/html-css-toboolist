@@ -14,27 +14,34 @@ header{
 }
 
 .container{
-    display: flex;
     align-items: center;
+    display: inline-block;
+    height: 130px;
     
 } 
 
-.logo > img{
+#logo{
     width: 100px;
     margin-left: 20px;
+    vertical-align: middle;
     
     
 }
 
-.title{
+#titolo{
     padding-left: 20px;
     line-height: 130px;
-    flex: left;
-    font-size: 1.5rem;
+    font-size: 4rem;
+    vertical-align: middle;
     
     
 }
 
 main{
     background-color: #F6F8F9;
+}
+
+.container-2{
+    background-color: red;
+    margin: 20px, 
 }
