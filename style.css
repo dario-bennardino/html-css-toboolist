@@ -43,5 +43,31 @@ main{
 
 .container-2{
     background-color: red;
-    margin: 20px, 
+    width: 1000px;
+    height: 1500px;
+  
+    
+
+    
+
+}
+
+#first-botton{
+    background-color: #47ADF1;
+    color: white;
+    border-radius: 15%;
+    font-size: 16px;
+    padding: 7px;
+    
+    
+
+}
+
+#second-botton{
+    background-color: white;
+    color: #C7CDD1;
+    font-size: 16px;
+    padding: 7px;
+    border-radius: 13%;
+
 }
