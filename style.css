@@ -79,3 +79,13 @@ main{
     border-bottom-right-radius: 5px;
 }
 
+li{
+    font-size: 25px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.main-text > div{
+    margin-top: 70px;
+    color: #444851;
+}
